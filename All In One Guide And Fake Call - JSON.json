@@ -33,9 +33,9 @@
   
   "Ads Explanation": " custom | applovin | admob | facebook | ironsource | unity | startapp ",
 
-  "Interstitial": "000",
-  "Banner": "0000",
-  "Native": "0",
+  "Interstitial": "applovin",
+  "Banner": "applovin",
+  "Native": "",
   "Rewarded": "00",
   
   
